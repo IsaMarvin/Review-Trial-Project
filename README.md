@@ -1,2 +1,2 @@
 # Review-Trial-Project
-Practicing code review on the admission trail project
+### Practicing code review of the admission trail project of my partner.
